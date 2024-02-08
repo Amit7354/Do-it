@@ -1,4 +1,4 @@
 # Do-it
 This is my first repository
 <br>
-Author - amit kumar
+Author - amit kumar (Chouhan)
